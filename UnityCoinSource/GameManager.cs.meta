@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1ead3aefce2f9e8458a4ecb08f33c13d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - exitB: {instanceID: 0}
+  - exitW: {instanceID: 0}
+  - playerB: {instanceID: 0}
+  - playerW: {instanceID: 0}
+  - DeathParticleB: {fileID: 4965074161675210904, guid: f32066ea598f28d49a32c47cf395c9c3,
+      type: 3}
+  - DeathParticleW: {fileID: 4965074161675210904, guid: d5cedb721b1698042a112d2e0a22cdae,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
