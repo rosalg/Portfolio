@@ -25,7 +25,7 @@ This project is made up of the Assets, Packages, and Project Settings folders. T
 The Assets folder contain self-describing folders, as well as scripts for the game in C#. The scripts are labelled to correspond with what each script manages. The only script I did NOT make myself was the CharacterController2D, however I made modifications of my own to make it work for the purposes of this game.
 
 The full game is available on mobile platforms:
-iOS - https://apps.apple.com/us/app/coin-a-tale-of-two-sides/id1506452163 \n
+iOS - https://apps.apple.com/us/app/coin-a-tale-of-two-sides/id1506452163<br/>
 Google PlayStore -https://play.google.com/store/apps/details?id=com.Leggs.Coin
 
 # SuperSmashCS107E
